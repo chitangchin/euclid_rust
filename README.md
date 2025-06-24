@@ -1,4 +1,4 @@
-# Euclid Algorithm
+# The Euclidean Algorithm (circa 300 BCE)
 
 Finding the Greatest common denominator of two numbers
 
